@@ -1,0 +1,18 @@
+.table_bar {
+    width: 600px;
+    height: 600px;
+    border: 10px solid brown;
+}
+
+
+.table_bar .black {
+    width: 12.5%;
+    height: 12.5%;
+    background-color: #000000;
+}
+
+.table_bar .white {
+    width: 12.5%;
+    height: 12.5%;
+    background-color: #FFFFFF;
+}
