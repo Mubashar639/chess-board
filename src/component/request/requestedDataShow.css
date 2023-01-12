@@ -3,3 +3,8 @@
     padding: 20px;
     color: white;
 }
+
+.table-color {
+    background-color: white;
+    border: 1px solid black;
+}
